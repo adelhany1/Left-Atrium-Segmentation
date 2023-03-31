@@ -23,7 +23,20 @@ Changes in atrial volume are assoicated with cardiac disorders, such as atrial f
 
 This Task is from [Medical Segmentation Decathlon](http://medicaldecathlon.com/) , The goal is to Automatically segment the left atrium in a 3D cardiac MRI images.
 
-Using Deep learning and python we will solve the problem. We will use Pytorch and Pytorch lightning frameworks.
+### Data
+- Medical Segmentation Decathlon (http://medicaldecathlon.com/)
+- 20 MRI scans of the heart with corresponding Ground Truth mask (https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2)
+- 4542 2D MRI and label slices
 
+Using Deep learning and python we will solve the problem.
+* pytorch (preferably with CUDA)
+* pytorch lightning
+* nibabel
+* matplotlib
+* numpy
+* pydicom
+* tqdm
+* celluloid
+* imgaug
 
 
