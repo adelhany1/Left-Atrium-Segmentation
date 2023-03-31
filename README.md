@@ -21,8 +21,9 @@ Segmentation of the left atrium (LA) is required to evaluate atrial size and fun
 (Left) Atrium Segmentation classifies each voxel in the MRI into either "Not Left Atrium" or " Left Atrium" Enables exact volume calculation
 Changes in atrial volume are assoicated with cardiac disorders, such as atrial fibrillation or mitral valve stenosis (Narrowing of the mitral valve orifice, blocking blood flow).
 
-This competetion is [Medical Segmentation Decathlon](http://medicaldecathlon.com/)
+This Task is from [Medical Segmentation Decathlon](http://medicaldecathlon.com/) , The goal is to Automatically segment the left atrium in a 3D cardiac MRI images.
 
+Using Deep learning and python we will solve the problem. We will use Pytorch and Pytorch lightening frameworks.
 
 
 
