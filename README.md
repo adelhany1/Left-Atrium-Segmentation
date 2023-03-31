@@ -23,7 +23,7 @@ Changes in atrial volume are assoicated with cardiac disorders, such as atrial f
 
 This Task is from [Medical Segmentation Decathlon](http://medicaldecathlon.com/) , The goal is to Automatically segment the left atrium in a 3D cardiac MRI images.
 
-Using Deep learning and python we will solve the problem. We will use Pytorch and Pytorch lightening frameworks.
+Using Deep learning and python we will solve the problem. We will use Pytorch and Pytorch lightning frameworks.
 
 
 
