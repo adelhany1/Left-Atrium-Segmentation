@@ -1,5 +1,7 @@
 # Left-Atrium-Segmentation
 
+Atrium segmentation is a very important task for cardiologists, especially in the left atrium (LA). Since the chances of narrowing are common in that area where blood stops flowing and which causes a heart attack. To tackle this problem, Artificial Intelligence can play an important role in segmenting the blockage area.
+
 The heart has four chambers: two atria and two ventricles.
 
 The right atrium receives oxygen-poor blood from the body and pumps it to the right ventricle.
